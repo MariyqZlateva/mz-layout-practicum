@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+i {
+   font-size: 3rem;
+}
+
+p {
+    font-size: 1rem; 
+}
+
+.numbers-size{
+    font-size: 1.75rem; 
+    margin-bottom: 0 ;
+}
+
+.btn-warning {
+  color: black;
+  background-color: #ffe718;
+}
